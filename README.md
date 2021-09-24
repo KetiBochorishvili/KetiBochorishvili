@@ -1,6 +1,11 @@
 ### Hi, I am ketevan, data viz freelancer
+![grouping bar chart](https://user-images.githubusercontent.com/82092035/134550549-18d17bc7-b967-4daa-b406-4ea7317ebc18.gif)
+![overlapping bar chart](https://user-images.githubusercontent.com/82092035/134625567-37365bc2-5803-4539-bfc9-b85cf2c57954.gif)
+![scatterplot](https://user-images.githubusercontent.com/82092035/134625587-603a9c94-9f91-437a-b7fa-b8cfc9b![bars update](https://user-images.githubusercontent.com/82092035/134625594-056bf26d-13d5-4362-9a9c-e10770b96589.gif)
+6227b.gif)
 
-![preview](https://user-images.githubusercontent.com/82092035/134229542-58f0bca8-775f-4e44-b31d-78917214a672.gif)![preview](https://user-images.githubusercontent.com/82092035/134229614-8ce0a750-a2b7-4e73-8722-dfe16a819bcb.gif)![preview](https://user-images.githubusercontent.com/82092035/134229652-805228d6-0286-412a-8345-f24eebf573be.gif)![preview](https://user-images.githubusercontent.com/82092035/134229742-11717a62-7165-42e0-b28e-7c1fb0a03927.gif)![preview](https://user-images.githubusercontent.com/82092035/134229776-05a3c0a7-4178-41f8-9560-e48085f44a52.gif)
+![glowing bars](https://user-images.githubusercontent.com/82092035/134625599-1e4489ab-e512-48d2-aaa1-8b40665a5a88.gif)
+
 
 You can check my website for more: https://ketevani.com/
 <!--
